@@ -44,7 +44,7 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 ### Run Server
 
 1. `php artisan serve` or Laravel Homestead
-1. Visit `localhost:8000` in your browser. Email: `admin@gmail.com`, Password: `admin123`.
+2. Visit `localhost:8000` in your browser. Email: `admin@gmail.com`, Password: `admin123`.
 
 
 
